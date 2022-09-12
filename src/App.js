@@ -39,7 +39,7 @@ function App() {
               !circle &&
               <>
                 <Circle />
-                <div className="container">
+                <div className="slide-txt">
                   <div className="scroller">
                     <div className="inner">
                       <span>hi,</span>

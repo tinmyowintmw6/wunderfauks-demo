@@ -163,12 +163,13 @@ body {
   background: #fafafa;
 }
 
-.container {
+.slide-txt {
   width: 100%;
   height: auto;
   position: relative;
   top: 20rem;
-  /* left: 7%; */
+  left: 0;
+  text-align: center;
 
 }
 
