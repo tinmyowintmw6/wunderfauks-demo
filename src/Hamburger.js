@@ -144,8 +144,8 @@ const HamburgerMenu = (props) => {
   return (
     <>
 
-      <MenuLabel htmlFor="navi-toggle" onClick={handleClick}>
-        <Icon clicked={click}>&nbsp;</Icon>
+      <MenuLabel htmlFor="navi-toggle" className="label-close" onClick={handleClick}>
+        <Icon className="close" clicked={click}>&nbsp;</Icon>
       </MenuLabel>
       <NavBackground clicked={click}>&nbsp;</NavBackground>
 

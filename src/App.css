@@ -137,9 +137,9 @@ h5.about-title {
   background-color: #282c34 !important;
 }
 
-span.MuiLinearProgress-bar.MuiLinearProgress-barColorPrimary.MuiLinearProgress-bar1Determinate.css-5xe99f-MuiLinearProgress-bar1 {
+/* span.MuiLinearProgress-bar.MuiLinearProgress-barColorPrimary.MuiLinearProgress-bar1Determinate.css-5xe99f-MuiLinearProgress-bar1 {
   background-color: #fff !important;
-}
+} */
 
 * {
   margin: 0px;
@@ -529,18 +529,8 @@ transition: stroke-dashoffset 0.5s ease 0s !important;
   }
 }
 
-.Cgtyc::after {
-  content: "";
-  background-color: #fff;
-  width: 3rem;
-  height: 2px;
-  display: inline-block;
-  position: absolute;
-  left: 0;
-  -webkit-transition: all 0.3s;
-  transition: all 0.3s;
-}
-.iyfkOp::after {
+
+span.jiUDaR::after {
   content: "";
   background-color: #fff;
   width: 2rem;
